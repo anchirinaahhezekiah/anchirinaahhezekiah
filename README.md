@@ -24,6 +24,7 @@ Contributing to open-source projects to grow as a developer and support the comm
 
 
 📬 Let's Connect
+
 Feel free to reach out if you'd like to collaborate on exciting projects or share ideas!
 
 <!--
