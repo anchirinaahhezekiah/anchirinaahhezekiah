@@ -10,13 +10,6 @@ Hi, I'm Hezekiah Anchirinaah, a passionate Flutter Developer and Computer Scienc
  Build and integrate features like live data analysis, API integrations, and custom user interfaces.
  Experiment with new tools, libraries, and best practices to stay ahead in the mobile development space.
 
-
- Current Projects
-
-Developing a Forex Trading Assistant mobile app with live market data, news feed aggregation, and portfolio tracking using Flutter.
-Exploring integrations with APIs like Alpha Vantage, OANDA, and NewsAPI.
-
-
  Goals
 
 Mastering advanced Flutter concepts and adding powerful apps to my portfolio.
