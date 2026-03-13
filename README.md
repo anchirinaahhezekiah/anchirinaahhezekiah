@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00A6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Builder;Tech+Enthusiast+from+Ghana;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hezekiahanchirinaah&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
